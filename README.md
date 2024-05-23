@@ -1,2 +1,2 @@
 # Amazon-Clone
-IT is a simple Front-end project.
+It is a simple Front-end project.
